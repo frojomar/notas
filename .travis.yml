@@ -1,0 +1,7 @@
+language: node_js
+node_js:
+  - "node"
+deploy:
+  provider: heroku
+  api_key: 2b7d5d04-fd5e-4404-8307-749a18ebcdc2
+  app: notes-aos-fjrm
